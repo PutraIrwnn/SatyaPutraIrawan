@@ -3,11 +3,11 @@
 <!-- Animated Header GIF -->
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="300"/>
 
-# 👋 Hey there, I'm Putra Irwan!
+# 👋 Halo! Aku Putra Irwan
 
-### Frontend Developer | Mobile & Web Enthusiast
+### Frontend Developer | Suka Bikin Hal-Hal Menarik ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Crafting+Digital+Experiences+%E2%9C%A8;Building+Responsive+Interfaces+%F0%9F%92%BB;Mobile+%26+Web+Development+%F0%9F%93%B1;React+%26+JavaScript+Lover+%E2%9D%A4%EF%B8%8F;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Bikin+Tampilan+Web+%26+Mobile+%F0%9F%92%BB;React+%26+JavaScript+Enthusiast+%E2%9D%A4%EF%B8%8F;Selalu+Pengen+Belajar+Hal+Baru+%F0%9F%9A%80;Ngopi+Dulu+Baru+Ngoding+%E2%98%95" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=PutraIrwnn&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile views" />
 
@@ -15,18 +15,18 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Tentang Aku
 
 ```javascript
 const putra = {
-    location: "Indonesia 🇮🇩",
-    role: "Frontend Developer",
-    focus: ["Mobile Apps", "Web Development"],
-    currentlyLearning: "Advanced React Patterns",
-    languages: ["JavaScript", "HTML", "CSS"],
-    tools: ["React", "React Native", "Git", "VS Code"],
-    funFact: "I turn coffee into code ☕ → 💻",
-    openTo: ["Collaborations", "Open Source", "Cool Projects"]
+    lokasi: "Indonesia 🇮🇩",
+    peran: "Frontend Developer",
+    passion: ["Bikin UI/UX Menarik", "Mobile & Web Apps"],
+    sedangBelajar: "React Patterns & Best Practices",
+    skillSet: ["JavaScript", "React", "React Native"],
+    tools: ["VS Code", "Git", "Figma"],
+    funFact: "Kopi = Bahan Bakar Ngoding ☕",
+    motto: "Keep learning, keep building! 🚀"
 };
 ```
 
@@ -54,30 +54,30 @@ const putra = {
 
 ---
 
-## 💼 What I'm Up To
+## 💼 Lagi Ngapain Sekarang?
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 Building responsive and intuitive user interfaces
-- 🌱 Exploring modern frontend architectures
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about **React**, **JavaScript**, or **mobile development**
-- ⚡ Fun fact: I believe good UI/UX can change the world!
-- 📫 Reach me anytime - I'm always up for interesting conversations
+- 🎨 Bikin interface yang responsive & eye-catching
+- 🌱 Belajar best practices frontend development
+- 🤝 Pengen banget kolaborasi di project open-source!
+- 💬 Boleh tanya-tanya tentang **React**, **JavaScript**, atau **mobile dev**
+- ⚡ Percaya banget kalau UI/UX yang bagus bisa bikin perbedaan!
+- 📫 Hubungi aku kapan aja - always open untuk diskusi seru
 
 <br clear="right"/>
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Project Showcase
 
 <div align="center">
 
-### 🚧 Currently Building Amazing Things
+### 🚧 Lagi Bikin Sesuatu yang Keren Nih!
 
-*Projects coming soon! Watch this space for exciting updates.*
+*Project-project aku bakal muncul di sini soon. Tunggu ya! 😄*
 
-<!-- Template untuk nanti kamu isi projects:
+<!-- Template buat nanti:
 
 <table>
   <tr>
@@ -91,17 +91,17 @@ const putra = {
         <br>
         <p>
           <a href="project-github" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-6366F1?style=for-the-badge&logo=github"/>
+            <img src="https://img.shields.io/badge/Code-Lihat_Kode-6366F1?style=for-the-badge&logo=github"/>
           </a>  
           <a href="project-demo" target="_blank">
             <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>React, JavaScript, CSS</strong> - Short project description</p>
+        <p><strong>React, JavaScript, CSS</strong> - Deskripsi singkat project</p>
       </div>
     </td>
     <td width="50%">
-      <!-- Project 2 sama seperti di atas -->
+      <!-- Project 2 -->
     </td>
   </tr>
 </table>
@@ -116,25 +116,18 @@ const putra = {
 
 <div align="center">
   
-<!-- Snake animation akan muncul di sini setelah kamu setup GitHub Actions -->
-<!-- Tutorial setup ada di bawah README ini -->
-
 ![Snake animation](https://raw.githubusercontent.com/PutraIrwnn/PutraIrwnn/output/github-contribution-grid-snake.svg)
-
-<!-- Kalau snake belum muncul, hapus baris di atas dan uncomment ini: -->
-<!-- <img src="https://media.giphy.com/media/l0HlPystfePnYIxWg/giphy.gif" width="300"> -->
-<!-- <p><i>🔧 Snake animation coming soon after setup!</i></p> -->
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Yuk Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/putrairwn)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/putrairwn12_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Yuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/putrairwn)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/putrairwn12_)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PutraIrwnn)
 
 </div>
@@ -149,18 +142,18 @@ const putra = {
 
 <br>
 
-### 🎵 Vibe Check
+### 🎵 Coding Vibes
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 
-*"Great code is written with passion, debugged with patience, and deployed with coffee"*
+*"Code yang bagus = passion + kesabaran + kopi ☕"*
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-**✨ Thanks for visiting! Let's build something awesome together! ✨**
+**✨ Thanks udah mampir! Kalau ada kesempatan, yuk bikin project bareng! ✨**
 
-<sub>💡 Pro tip: Star repos you find interesting - it helps others discover them too!</sub>
+<sub>💡 Fun fact: Star repo yang kamu suka - helps others discover cool stuff! 🌟</sub>
 
 </div>
